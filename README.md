@@ -1,3 +1,2 @@
-Omok with Alphago zero
-
-Reference : Learning to Play Othello Without Human Knowledge(Shantanu Thakoor et al) codes
+Go with Alphago zero
+Ref : Learning to Play Othello Without Human Knowledge(Shantanu Thakoor et al) codes
