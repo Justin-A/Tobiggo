@@ -1,2 +1,2 @@
 Go with Alphago zero
-Ref : Learning to Play Othello Without Human Knowledge(Shantanu Thakoor et al)
+Reference : Learning to Play Othello Without Human Knowledge(Shantanu Thakoor et al)
